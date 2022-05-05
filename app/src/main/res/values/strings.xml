@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab 07 NotesPlus Omelko</string>
+    <string name="itmNew">New</string>
+    <string name="itmSave">Save</string>
+    <string name="itmDelete">Delete</string>
+    <string name="AlertDialog">Are you sure?</string>
+    <string name="ErrorDel">Error, record is not deleted</string>
+    <string name="ErrorSave">Error, record is not saved</string>
+    <string name="buttonOk">ok</string>
+    <string name="buttonCancel">cancel</string>
+    <string name="dialogTitle">Attention!</string>
+    <string name="dialogDelete">Delete this note?</string>
+</resources>
